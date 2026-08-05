@@ -28,7 +28,7 @@ document.querySelectorAll("a").forEach(link => {
 const typingElement = document.getElementById("typing");
 
 if (typingElement) {
-    const roles = ["Web Developer", "BCA Student", "Future Software Engineer"];
+    const roles = ["Web Developer", "Software Developer", "Aspiring Full-Stack Developer", "Future Software Engineer"];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
